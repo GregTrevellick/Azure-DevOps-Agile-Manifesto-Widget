@@ -1,4 +1,4 @@
-# Privacy Policy For Azure DevOps Agile Manifesto Widget
+# Privacy Policy For Agile Manifesto Widget
 
 ## TLDR 
 This extension does not collect ANY data about you or your organisation. Period. End of.
