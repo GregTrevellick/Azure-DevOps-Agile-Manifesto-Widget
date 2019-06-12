@@ -1,4 +1,4 @@
-# Agile Manifesto Widget Privacy Policy
+# Privacy Policy
 
 ## TLDR 
 
