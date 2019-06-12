@@ -1,7 +1,7 @@
 # Privacy Policy For Agile Manifesto Widget
 
 ## TLDR 
-This extension does not collect ANY data about you or your organisation. Period. End of.
+This extension does not collect any data about you or your organisation. Period.
 
 ## Legal
 
