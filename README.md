@@ -9,7 +9,7 @@ The Agile Manifesto Widget (hereinafter referred to as the "Widget") operates fr
 
 This page informs you of my policies regarding the collection, use, and disclosure of personal data when you use my Widget.
 
-The Widget does ****NOT**** collect or use ****ANY**** information, personal or otherwise, whatsoever.
+The Widget does **NOT** collect or use **ANY** information, personal or otherwise, whatsoever.
 
 This includes but is not limited to:
 - Cookie data
