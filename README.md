@@ -21,7 +21,7 @@ This includes but is not limited to:
 
 ## Microsoft Privacy Policy 
 
-Of course, as Microsoft host all extensions for their tooling, the [Microsoft privacy policy](https://privacy.microsoft.com/en-gb/privacystatement) additionally applies to their website but does not in anyway negate or dilute the privacy policy of the Service (my widget in other words). Please note that the [link](https://privacy.microsoft.com/en-gb/privacystatement) above is for Microsoft's general privacy policy and is not specific to the Visual Studio Marketplace.
+Since Microsoft host all extensions for their tooling, the [Microsoft privacy policy](https://privacy.microsoft.com/en-gb/privacystatement) additionally applies to their website. This does not in anyway negate or dilute the privacy policy of the Widget. Please note that the [link](https://privacy.microsoft.com/en-gb/privacystatement) above is for Microsoft's general privacy policy and is not specific to the Visual Studio Marketplace.
 
 ## Contact Me
 
