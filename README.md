@@ -10,8 +10,9 @@ My widgets do not collect any data about you or your organisation. Period.
 This Privacy Policy applies to the following [Azure DevOps Marketplace](https://marketplace.visualstudio.com/azuredevops) dashboard widgets (hereinafter referred to as the "Widgets"):
 
 - [Agile Manifesto](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.AgileManifestoDashboardWidget)
-- [@Dev_Humor](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.vsts-extensions-tweets-Dev-Humor)
+- [@AzureDevOps](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.vsts-extensions-tweets-AzureDevOps)
 - [@DailyDotNetTips](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.vsts-extensions-tweets-DailyDotNetTips)
+- [@Dev_Humor](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.vsts-extensions-tweets-Dev-Humor)
 
 ## Widget Privacy Policy
 
